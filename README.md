@@ -28,5 +28,3 @@ _Special thanks to the Math.js library for providing a reliable and secure found
 **License**
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Feel free to customize the README further based on additional features, acknowledgments, or any specific instructions you want to provide to users.
