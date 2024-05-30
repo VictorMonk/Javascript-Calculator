@@ -1,4 +1,5 @@
 **JavaScript Calculator**
+Live Demo: https://victormonk.github.io/Javascript-Calculator/
 
 A simple calculator web application created using HTML, CSS, and JavaScript. This project leverages the Math.js library for precise and secure mathematical calculations.
 Features
